@@ -62,7 +62,7 @@ function show(data) {
          for (let r of data) {
             tab += `<tr> 
         <td>${r.name} </td>
-        <td>${r.noOfPages} </td>
+        <td>${r.numberOfPages} </td>
         <td>${r.publisher}</td> 
         <td>${r.isbn}</td>
         <td>${r.authors}</td> 
